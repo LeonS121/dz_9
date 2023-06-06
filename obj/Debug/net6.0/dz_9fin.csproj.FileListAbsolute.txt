@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\dz_9fin\bin\Debug\net6.0\dz_9fin.exe
+C:\Users\Сергей\Desktop\dz_9fin\bin\Debug\net6.0\dz_9fin.deps.json
+C:\Users\Сергей\Desktop\dz_9fin\bin\Debug\net6.0\dz_9fin.runtimeconfig.json
+C:\Users\Сергей\Desktop\dz_9fin\bin\Debug\net6.0\dz_9fin.dll
+C:\Users\Сергей\Desktop\dz_9fin\bin\Debug\net6.0\dz_9fin.pdb
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.dll
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\refint\dz_9fin.dll
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.pdb
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\dz_9fin.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\dz_9fin\obj\Debug\net6.0\ref\dz_9fin.dll
